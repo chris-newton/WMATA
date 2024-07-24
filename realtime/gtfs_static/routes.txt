@@ -1,0 +1,8 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_url,route_color,as_route,network_id,route_text_color
+RED,"1","Red","Metrorail Red Line",1,"",e94333,1,Metrorail,
+BLUE,"1","Blue","Metrorail Blue Line",1,"",0d7bba,1,Metrorail,
+GREEN,"1","Green","Metrorail Green Line",1,"",009d57,1,Metrorail,
+YELLOW,"1","Yellow","Metrorail Yellow Line",1,"",fde310,1,Metrorail,
+ORANGE,"1","Orange","Metrorail Orange Line",1,"",f89038,1,Metrorail,
+SILVER,"1","Silver","Metrorail Silver Line",1,"",CCCCCC,1,Metrorail,
+SHUTTLE,"1","SHUTTLE","",3,"",000000,1,Metrorail,FFFFFF
