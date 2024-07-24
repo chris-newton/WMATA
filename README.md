@@ -6,4 +6,5 @@ one can access the detailed performance and customer satisfaction datasets used 
 It is not a problem to have more data than you know what to do with.
 
 [excellence_report](https://github.com/chris-newton/WMATA/tree/main/excellence_report) contains the FY21-FY24 Q3 DC Metro Service Excellence Report Dataset and an exploratory data analysis on the quarterly data.
+
 [ridership](https://github.com/chris-newton/WMATA/tree/main/ridership) contains linear regression analysis on daily ridership data as well as daily weather data collected from NOAA.
