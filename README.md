@@ -2,7 +2,7 @@ Washington, D.C. is one of a growing cadre of cities who have embraced an open d
 and the like, it also pays the city back when those curious people publish open-source research on that data. It is a mutualism. 
 
 Over the years, DC's open data hub has grown with the proliferation of big data, and now offers a high-quality dataset for any concievable research question. In the area of DC public transit alone, 
-one can access the detailed performance and customer satisfaction datasets used in WMATA's quarterly reports, \n+and even use their free API to access real-time arrival time estimates, trip statuses, even train positions and speeds.
+one can access the detailed performance and customer satisfaction datasets used in WMATA's quarterly reports, and even use their free API to access real-time arrival time estimates, trip statuses, even train positions and speeds.
 It is not a problem to have more data than you know what to do with.
 
 [excellence_report](https://github.com/chris-newton/WMATA/tree/main/excellence_report) contains an exploratory data analysis on the FY21-FY24 Q3 DC Metro Service Excellence Report.
