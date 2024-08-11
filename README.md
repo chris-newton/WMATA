@@ -1,4 +1,4 @@
-[DC Metro Station](https://github.com/chris-newton/WMATA/blob/main/150528203645-dc-metro-photo.jpg)
+![DC Metro Station](https://github.com/chris-newton/WMATA/blob/main/150528203645-dc-metro-photo.jpg)
 
 Washington, D.C. is one of a growing cadre of cities who have embraced an open data sharing model. Not only does the free (and expansive) city data make for great reference material for data scientists, city planners, 
 and the like, it also pays the city back when those curious people publish open-source research on that data. It is a mutualism. 
